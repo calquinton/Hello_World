@@ -13,5 +13,4 @@ This is the classic Hello World program. I wrote it to demonstrate my developmen
 # Useful Websites
 
 {Make a list of websites that you found helpful in this project}
-* [Web Site Name](http://url.link.goes.here)
-* [Web Site Name](http://url.link.goes.here)
+* [Zoom - Getting started with recording](https://support.zoom.us/hc/en-us/articles/360059781332-Getting-started-with-recording)
